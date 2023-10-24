@@ -1,0 +1,33 @@
+header{
+    background: linear-gradient(rgba(0, 0, 0, 0.273), rgba(0, 0, 0, 0.742)), url("../img/banner2.png");
+    background-position: center;
+    background-size: cover;
+    height: auto;
+    min-height: 50vh;
+    
+}
+/* .header-text{
+    margin-top: 200px;
+    width: 90%;
+    
+} */
+.main-text{
+    margin-top: 10px;
+    width: 90%;
+    text-align:justify; 
+}
+.main-row{
+    margin-right:60px;
+}
+section {
+    margin-top: 80px;
+}
+.icon {
+    padding: 5px;
+}
+.justify {
+    text-align: justify;
+}
+.submit{
+    margin-bottom:20px
+}
